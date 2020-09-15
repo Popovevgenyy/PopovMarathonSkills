@@ -1,0 +1,12 @@
+C:\Users\Попов\Desktop\KartSkills\KartSkills\bin\Debug\KartSkills.exe.config
+C:\Users\Попов\Desktop\KartSkills\KartSkills\bin\Debug\KartSkills.exe
+C:\Users\Попов\Desktop\KartSkills\KartSkills\bin\Debug\KartSkills.pdb
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.csprojAssemblyReference.cache
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.Form1.resources
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.Properties.Resources.resources
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.csproj.GenerateResource.cache
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.csproj.CoreCompileInputs.cache
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.exe
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.pdb
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.main.resources
+C:\Users\Попов\Desktop\KartSkills\KartSkills\obj\Debug\KartSkills.signin.resources
